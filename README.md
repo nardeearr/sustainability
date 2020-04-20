@@ -1,4 +1,4 @@
-# sustainability
+# Sustainability
 Project for coding
 
 This is our final project for the CodeforGirls 8 week course.
